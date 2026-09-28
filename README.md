@@ -8,7 +8,7 @@ To repozytorium zawiera wyłącznie publiczną warstwę prezentacyjną projektu.
 
 ## Aplikacja
 
-MonterPlan 1.6.1 pomaga w organizacji pomiarów i montaży:
+MonterPlan 1.6.2 pomaga w organizacji pomiarów i montaży:
 
 - kalendarz i terminy,
 - projekty i dane klienta,
@@ -16,13 +16,13 @@ MonterPlan 1.6.1 pomaga w organizacji pomiarów i montaży:
 - zdjęcia i notatki,
 - lokalne rozpoznawanie połączeń,
 - eksport danych,
-- synchronizacja wybranych pól terminów z Planerem Rodzinnym.
+- synchronizacja wybranych pól terminów z PlanerGo.
 
 Podstawowe funkcje aplikacji działają lokalnie. Synchronizacja wymaga odpowiedniego połączenia sieciowego/Tailscale.
 
 ## GitHub Pages
 
-Docelowy adres strony:
+Strona publiczna:
 
 ```text
 https://yaqbik84.github.io/MonterPlan-showcase/
@@ -30,7 +30,13 @@ https://yaqbik84.github.io/MonterPlan-showcase/
 
 ## Demo Android
 
-Sekcja demo jest przygotowana na stronie. Prawdziwe APK zostanie podłączone do środowiska demonstracyjnego w kolejnym kroku konfiguracji.
+Publiczne demo korzysta z Appetize i uruchamia MonterPlan na wirtualnym urządzeniu Android.
+
+Aktualny link demo:
+
+```text
+https://appetize.io/app/android/pl.folianawymiar.app?device=pixel7&osVersion=13.0&toolbar=true
+```
 
 ## Prywatność
 
